@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/09.UIs/Kyeong/ObstacleCntUI.uss?fileID=7433441132597879392&amp;guid=b689710b912ffa14d9e7a7ec029e3836&amp;type=3#ObstacleCntUI" />
+    <ui:VisualElement name="container" picking-mode="Ignore" style="flex-grow: 1; flex-direction: row-reverse; align-items: flex-start;">
+        <ui:VisualElement name="obstacle-cnt-area" picking-mode="Ignore" class="obstacle-area" style="width: 300px; height: 150px; align-items: center; justify-content: flex-start;">
+            <ui:Label picking-mode="Ignore" name="cnt-label" class="cnt-label" style="-unity-text-align: upper-right;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

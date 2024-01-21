@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/09.UIs/Kyeong/ShotShowUI.uss?fileID=7433441132597879392&amp;guid=d0682b546f32970488fec1b6c9327515&amp;type=3#ShotShowUI" />
+    <ui:VisualElement name="container" picking-mode="Ignore" style="flex-grow: 1; flex-direction: row-reverse; align-items: auto;">
+        <ui:VisualElement name="card-area" picking-mode="Ignore" style="left: -75px; top: -75px; width: 250px; height: 200px; flex-direction: row; justify-content: space-between;">
+            <ui:VisualElement name="low-shot" class="card choose" style="background-color: rgb(0, 0, 255);" />
+            <ui:VisualElement name="high-shot" class="card" style="background-color: rgb(255, 0, 0);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

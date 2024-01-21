@@ -1,0 +1,8 @@
+.card {
+    width: 50px;
+    transition-duration: 0.25s;
+}
+
+.card.choose {
+    width: 200px;
+}

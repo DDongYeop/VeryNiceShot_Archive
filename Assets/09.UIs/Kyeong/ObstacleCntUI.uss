@@ -1,0 +1,25 @@
+.obstacle-area {
+    left: -75px;
+    width: 300px;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+    transition-duration: 0.3s;
+    top: 50px;
+}
+
+.cnt-label {
+    width: 300px;
+    height: 150px;
+    align-items: center;
+    justify-content: flex-start;
+    transition-duration: 0.5s;
+    color: rgb(27, 27, 27);
+    -unity-font-definition: url('project://database/Assets/99.Others/Kyeong/Font/super_funnel/Super%20Funnel%20SDF.asset?fileID=11400000&guid=a62af25db56ca1a4ab3de8ce306b3f88&type=2#Super Funnel SDF');
+    font-size: 66px;
+    -unity-font: url('project://database/Assets/99.Others/Kyeong/Font/super_funnel/Super%20Funnel.ttf?fileID=12800000&guid=efa59e8dd08e2d54e8fb869c31cc2529&type=3#Super Funnel');
+}
+
+.cnt-label.unshow {
+    color: rgba(0, 0, 0, 0);
+}

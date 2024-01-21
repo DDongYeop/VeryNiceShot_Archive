@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00.Scenes/Wi/SettingScene.unity
+    guid: 3287d97624ba80c45a77caf79fa834e5
+  - enabled: 1
+    path: Assets/00.Scenes/Ko/StartScene.unity
+    guid: 9575c7993ee665545b457b25f9a626f3
+  - enabled: 1
+    path: Assets/00.Scenes/Ko/StageSelectScene.unity
+    guid: c4bed1a8f6d43c2428304a38cec11fc1
+  - enabled: 1
+    path: Assets/00.Scenes/Wi/Tutorial_1.unity
+    guid: f43453fcb752a1e499d9a7a52249a260
+  - enabled: 1
+    path: Assets/00.Scenes/Wi/Tutorial_2.unity
+    guid: 3b3c02dc3e6db0e459c52cc9a2f10628
+  - enabled: 1
+    path: Assets/00.Scenes/Wi/Tutorial_3.unity
+    guid: 187e7447c3c6bb440b070078440afd9f
+  - enabled: 1
+    path: Assets/00.Scenes/Wi/Tutorial_4.unity
+    guid: daec8d0146d95c14d9e3e999d6aa0eed
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage1.unity
+    guid: b77fe59c74ca79444b769ba96d10d420
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage2.unity
+    guid: d9d4b3b654c9a9d4d8e85d113df5ce1e
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage3.unity
+    guid: 13b6aa281d98beb44939d9b79d2f92d2
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage4.unity
+    guid: 56247095087cb7043994bc6b4010cc9c
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage5.unity
+    guid: e133af7c5e5765c4c9c27e27c2887948
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage6.unity
+    guid: 93ec5c0cc286cc049b7c713daba6c9b6
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage7.unity
+    guid: ec13db74dd67b3240b794f643baa4fde
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage8.unity
+    guid: e45d8bb72a3e9cc4fbe59589067850e2
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage9.unity
+    guid: bebd5b50bbb22fe419aaa4238de87682
+  - enabled: 1
+    path: Assets/00.Scenes/Yoon/Com/ComStage10.unity
+    guid: dcfe6057359866e4db1ef6307d5b33be
+  m_configObjects: {}
